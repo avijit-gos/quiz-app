@@ -1,0 +1,93 @@
+[{
+    "question": "In golf, what name is given to a hole score of two under par?",
+    "answers": [
+    {"answer": "Birdie", "isCorrect": false, "id": "1"},
+    {"answer": "Bogey", "isCorrect": false, "id": "2"},
+    {"answer": "Eagle", "isCorrect": true, "id": "4"},
+    {"answer": "Albatross", "isCorrect": false, "id": "3"}
+    ]
+},
+
+{
+    "question": "In what sport is a &quot;shuttlecock&quot; used?",
+    "answers": [
+    {"answer": "Table Tennis", "isCorrect": false, "id": "1"},
+    {"answer": "Rugby", "isCorrect": false, "id": "2"},
+    {"answer": "Badminton", "isCorrect": true, "id": "4"},
+    {"answer": "Cricket", "isCorrect": false, "id": "3"}
+    ]
+},
+{
+    "question": "In baseball, how many fouls are an out?",
+    "answers": [
+    {"answer": "5", "isCorrect": false, "id": "1"},
+    {"answer": "3", "isCorrect": false, "id": "2"},
+    {"answer": "0", "isCorrect": true, "id": "4"},
+    {"answer": "2", "isCorrect": false, "id": "3"}
+    ]
+},
+{
+    "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+    "answers": [
+    {"answer": "August 21", "isCorrect": true, "id": "4"},
+    {"answer": "August 23", "isCorrect": false, "id": "1"},
+    {"answer": "August 19", "isCorrect": false, "id": "2"},
+    {"answer": "August 17", "isCorrect": false, "id": "3"}
+    ]
+},
+{
+    "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+    "answers": [
+    {"answer": "0 - 1", "isCorrect": false, "id": "1"},
+    {"answer": "7 - 1", "isCorrect": true, "id": "4"},
+    {"answer": "3 - 4", "isCorrect": false, "id": "2"},
+    {"answer":  "16 - 0", "isCorrect": false, "id": "3"}
+    ]
+},
+{
+    "question": "When was the first official international game played?",
+    "answers": [
+    {"answer": "1880", "isCorrect": false, "id": "1"},
+    {"answer": "1872", "isCorrect": true, "id": "4"},
+    {"answer": "1863", "isCorrect": false, "id": "2"},
+    {"answer": "1865", "isCorrect": false, "id": "3"}
+    ]
+},
+{
+    "question": "In bowling, what is the term used for getting three consecutive strikes?",
+    "answers": [
+    {"answer": "Turkey", "isCorrect": true, "id": "4"},
+    {"answer": "Flamingo", "isCorrect": false, "id": "1"},
+    {"answer": "Birdie", "isCorrect": false, "id": "2"},
+    {"answer": "Eagle", "isCorrect": false, "id": "3"}
+    ]
+},
+{
+    "question": "When was the FC Schalke 04 founded?",
+    "answers": [
+    {"answer": "1909", "isCorrect": false, "id": "1"},
+    {"answer": "1904", "isCorrect": true, "id": "4"},
+    {"answer": "2008", "isCorrect": false, "id": "2"},
+    {"answer": "1999", "isCorrect": false, "id": "3"}
+    ]
+},
+{
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "answers": [
+    {"answer": "Las Vegas", "isCorrect": false, "id": "1"},
+    {"answer": "Boston", "isCorrect": false, "id": "2"},
+    {"answer": "Brooklyn", "isCorrect": true, "id": "4"},
+    {"answer": "Seattle", "isCorrect": false, "id": "3"}
+    ]
+},
+
+{
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "answers": [
+    {"answer": "Las Vegas", "isCorrect": false, "id": "1"},
+    {"answer": "Boston", "isCorrect": false, "id": "2"},
+    {"answer": "Seattle", "isCorrect": false, "id": "3"},
+    {"answer": "Brooklyn", "isCorrect": true, "id": "4"}
+    ]
+}
+]
